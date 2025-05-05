@@ -34,7 +34,7 @@ Multiplayer online game using AI-generated images and ChatGPT
 
 ## 📫 Let's Connect
 
-- Email: [roger.bavibidila@stud.hslu.ch](mailto:rogerjeasy@gmail.com)
+- Email: [rogerjeasy@gmail.com](mailto:rogerjeasy@gmail.com)
 - GitHub: [@rogerjeasy](https://github.com/rogerjeasy)
 ---
 
