@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Roger Bavibidila 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer</b> · <b>AI/ML Engineer</b> · Building intelligent, scalable systems — from RAG pipelines to production cloud platforms.
-</p>
-
-<p align="center">
-  <a href="https://github.com/rogerjeasy"><img src="https://img.shields.io/badge/GitHub-rogerjeasy-181717?style=flat&logo=github&logoColor=white" /></a>
+  Building intelligent, scalable systems.
 </p>
 
 ---
@@ -111,29 +107,11 @@
   <img src="https://streak-stats.demolab.com/?user=rogerjeasy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="Total contributions, current streak and longest streak for rogerjeasy" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/239a3b/rogerjeasy" width="720" alt="rogerjeasy's GitHub contribution graph for the last year" />
-</p>
-
-<!--
-  The github-readme-stats card (commits / PRs / stars summary) is intentionally omitted:
-  the public instance at github-readme-stats.vercel.app is currently returning
-  503 DEPLOYMENT_PAUSED, and every community mirror is rate-limited ("Maximum
-  retries exceeded"). To restore it, deploy your own instance
-  (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance),
-  set a PAT_1 env var, and uncomment the line below with your deployment host.
-  A self-hosted instance is also the only way count_private=true actually works.
-
-  <img src="https://<your-instance>.vercel.app/api?username=rogerjeasy&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=default&hide_border=true" height="165" />
--->
-
 ---
 
 ### 📫 Let's Connect
 
 - 📧 Email: [rogerjeasy@gmail.com](mailto:rogerjeasy@gmail.com)
-- 🐙 GitHub: [@rogerjeasy](https://github.com/rogerjeasy)
-- 📍 Based in Zurich, Switzerland
 
 ---
 
