@@ -24,12 +24,10 @@
 
 ### About
 
-|  |  |
-|---|---|
-| **Now** | Working Student Full-Stack Engineer, Workflow Automation & AI, at **Zurich Insurance Group**: AI-powered automation across the stack. |
-| **Before** | Machine Learning Engineer Intern at **Earkick AI**: multimodal (audio and video) emotion recognition. |
-| **Wins** | 🏆 **Best Design**, H0: Hack the Zero Stack (Vercel v0 & AWS) · 🥈 **2nd Place, Dynatrace track**, Google Cloud Rapid Agent Hackathon |
-| **Open source** | A merged production fix in [genblaze](https://github.com/backblaze-labs/genblaze), a pull request to Amazon's [AgentCore SDK](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287), and [vega-calm-ui](https://www.npmjs.com/package/vega-calm-ui) on npm. |
+- **Now** · Working Student Full-Stack Engineer, Workflow Automation & AI, at **Zurich Insurance Group**: AI-powered automation across the stack.
+- **Before** · Machine Learning Engineer Intern at **Earkick AI**: multimodal (audio and video) emotion recognition.
+- **Wins** · 🏆 **Best Design**, H0: Hack the Zero Stack (Vercel v0 & AWS) · 🥈 **2nd Place, Dynatrace track**, Google Cloud Rapid Agent Hackathon.
+- **Open source** · A merged production fix in [genblaze](https://github.com/backblaze-labs/genblaze), a pull request to Amazon's [AgentCore SDK](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287), and [vega-calm-ui](https://www.npmjs.com/package/vega-calm-ui) on npm.
 
 ### Featured work
 
@@ -71,11 +69,11 @@
 ### Tech stack
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,go,ts,js,java,postgres,mysql,mongodb,redis,firebase&theme=dark"><img alt="Python, Go, TypeScript, JavaScript, Java, PostgreSQL, MySQL, MongoDB, Redis, Firebase" src="https://skillicons.dev/icons?i=py,go,ts,js,java,postgres,mysql,mongodb,redis,firebase&theme=light"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cgo%2Cts%2Cjs%2Cjava%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cfirebase&theme=dark"><img alt="Python, Go, TypeScript, JavaScript, Java, PostgreSQL, MySQL, MongoDB, Redis, Firebase" src="https://skillicons.dev/icons?i=py%2Cgo%2Cts%2Cjs%2Cjava%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cfirebase&theme=light"></picture>
   <br>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,spring,express,nextjs,react,tailwind,pytorch,tensorflow&theme=dark"><img alt="FastAPI, Spring Boot, Express, Next.js, React, Tailwind CSS, PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=fastapi,spring,express,nextjs,react,tailwind,pytorch,tensorflow&theme=light"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cspring%2Cexpress%2Cnextjs%2Creact%2Ctailwind%2Cpytorch%2Ctensorflow&theme=dark"><img alt="FastAPI, Spring Boot, Express, Next.js, React, Tailwind CSS, PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=fastapi%2Cspring%2Cexpress%2Cnextjs%2Creact%2Ctailwind%2Cpytorch%2Ctensorflow&theme=light"></picture>
   <br>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,terraform,githubactions,prometheus,grafana&theme=dark"><img alt="AWS, Google Cloud, Azure, Docker, Terraform, GitHub Actions, Prometheus, Grafana" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,terraform,githubactions,prometheus,grafana&theme=light"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Cterraform%2Cgithubactions%2Cprometheus%2Cgrafana&theme=dark"><img alt="AWS, Google Cloud, Azure, Docker, Terraform, GitHub Actions, Prometheus, Grafana" src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Cterraform%2Cgithubactions%2Cprometheus%2Cgrafana&theme=light"></picture>
 </p>
 <p align="center">
   <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
