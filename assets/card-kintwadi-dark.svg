@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="300" viewBox="0 0 632 300" role="img" aria-labelledby="t d">
+<title id="t">Kintwadi</title><desc id="d">WINNER · BEST DESIGN. One shared record for family caregiving. Permission-aware caregiving record with role-based RLS and a permission-scoped RAG assistant.</desc>
+<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset=".5" stop-color="#253047"/><stop offset="1" stop-color="#22D3EE"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="14s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#121a2b"/></linearGradient>
+<radialGradient id="gl" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#FBBF24" stop-opacity=".14"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient></defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .p{animation:pulse 2.8s ease-in-out infinite} @keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}} @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="630" height="298" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="630" height="298" rx="18" fill="url(#gl)"/>
+<rect x="1" y="1" width="630" height="298" rx="18" fill="none" stroke="url(#bd)" stroke-width="1.6"/>
+<g class="in">
+<rect x="32" y="28" width="218" height="26" rx="13" fill="#FBBF24" fill-opacity=".12" stroke="#FBBF24" stroke-opacity=".55"/>
+<circle class="p" cx="47" cy="41" r="4" fill="#FBBF24"/><text x="58" y="45.5" font-size="12" font-weight="700" letter-spacing="1" fill="#FBBF24">WINNER · BEST DESIGN</text>
+<text x="32" y="96" font-size="30" font-weight="800" letter-spacing="-.5" fill="#E6EDF3">Kintwadi</text>
+<text x="32" y="122" font-size="16" font-weight="600" fill="#38BDF8">One shared record for family caregiving.</text>
+<text x="32" y="150" font-size="15.5" fill="#8B98A9">Permission-aware caregiving record with role-based</text><text x="32" y="174" font-size="15.5" fill="#8B98A9">RLS and a permission-scoped RAG assistant.</text>
+<rect x="32" y="212" width="151" height="26" rx="13" fill="#1A2337" stroke="#253047"/><text x="107.5" y="229.5" font-size="12.5" font-weight="600" text-anchor="middle" fill="#C9D4E3">Aurora PostgreSQL</text><rect x="191" y="212" width="85" height="26" rx="13" fill="#1A2337" stroke="#253047"/><text x="233.5" y="229.5" font-size="12.5" font-weight="600" text-anchor="middle" fill="#C9D4E3">pgvector</text><rect x="284" y="212" width="77" height="26" rx="13" fill="#1A2337" stroke="#253047"/><text x="322.5" y="229.5" font-size="12.5" font-weight="600" text-anchor="middle" fill="#C9D4E3">Bedrock</text><rect x="369" y="212" width="77" height="26" rx="13" fill="#1A2337" stroke="#253047"/><text x="407.5" y="229.5" font-size="12.5" font-weight="600" text-anchor="middle" fill="#C9D4E3">Next.js</text>
+<text x="600" y="45.5" font-size="13" font-weight="700" text-anchor="end" fill="#8B98A9">Devpost →</text>
+</g></svg>
