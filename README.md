@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rogerjeasy.com"><img alt="Website" src="https://img.shields.io/badge/rogerjeasy.com-0B0F1A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"></a>
   <a href="https://devpost.com/rogerjeasy"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-0B0F1A?style=for-the-badge&logo=devpost&logoColor=8B5CF6"></a>
   <a href="mailto:rogerjeasy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/rogerjeasy@gmail.com-0B0F1A?style=for-the-badge&logo=gmail&logoColor=22D3EE"></a>
   <img alt="Based in Zurich, Switzerland" src="https://img.shields.io/badge/Zurich,_Switzerland-0B0F1A?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6">
@@ -24,10 +23,23 @@
 
 ### About
 
-- **Now** · Working Student Full-Stack Engineer, Workflow Automation & AI, at **Zurich Insurance Group**: AI-powered automation across the stack.
+- **Now** · Working Student Full-Stack Engineer, Workflow Automation & AI, at **Zurich Insurance Group**: one of the leading members building a centralized agentic engineering infrastructure, focused on the reliability, evaluation and reuse of AI agents, skills and tooling across teams.
 - **Before** · Machine Learning Engineer Intern at **Earkick AI**: multimodal (audio and video) emotion recognition.
-- **Wins** · 🏆 **Best Design**, H0: Hack the Zero Stack (Vercel v0 & AWS) · 🥈 **2nd Place, Dynatrace track**, Google Cloud Rapid Agent Hackathon.
-- **Open source** · A merged production fix in [genblaze](https://github.com/backblaze-labs/genblaze), a pull request to Amazon's [AgentCore SDK](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287), and [vega-calm-ui](https://www.npmjs.com/package/vega-calm-ui) on npm.
+- **Wins** · 🏆 **Best Design** and 🥈 **2nd Place**, against **24,191** combined participants: [details below](#hackathon-wins).
+- **Open source** · A merged production fix in [genblaze](https://github.com/backblaze-labs/genblaze), a pull request to Amazon's [AgentCore SDK](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287), [vega-calm-ui](https://www.npmjs.com/package/vega-calm-ui) on npm, and the [win-hackathon](https://github.com/rogerjeasy/win-hackathon) Claude Code plugin.
+
+### Hackathon wins
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wins-dark.svg">
+  <img alt="2 podium finishes, Best Design and 2nd Place Dynatrace track, across 24,191 combined participants. $5,000 in cash prizes and $2,000 in AWS credits." src="assets/wins-light.svg" width="100%">
+</picture>
+
+|    | Hackathon                                                                                    | Project                                                                                                         | Result                             |                                   Field | Prize                                 |
+| :-: | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------: | ------------------------------------- |
+| 🏆 | **H0: Hack the Zero Stack**Vercel v0 & AWS Databases<sub>Online · June 30, 2026</sub> | [**Kintwadi**](https://devpost.com/software/kintwadi-one-shared-record-for-family-caregiving)<sub></sub>   | **Winner**Best Design        |  **9,733**<sub>participants</sub> | **$2,000**+ $2,000 AWS credits  |
+| 🥈 | **Google Cloud Rapid Agent Hackathon**Dynatrace track<sub>Online · May 11, 2026</sub> | [**Karma**](https://devpost.com/software/karma-the-reincarnation-agent-for-deprecated-services)<sub></sub> | **2nd Place**Dynatrace track | **14,458**<sub>participants</sub> | **$3,000**                      |
+|    | **Total**                                                                              |                                                                                                                 | **2 podiums**                |                        **24,191** | **$5,000** + $2,000 AWS credits |
 
 ### Featured work
 
@@ -53,20 +65,26 @@
 </p>
 <p align="center"><sub>
   HSLU Exam Assistant: <a href="https://github.com/rogerjeasy/hslu-rag-backend">backend</a> · <a href="https://github.com/rogerjeasy/hslu-rag-frontend">frontend</a> · <a href="https://hslu-rag-backend.onrender.com">API docs</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+    |  
   Let Us Connect: <a href="https://github.com/rogerjeasy/go-letusconnect">backend</a> · <a href="https://github.com/rogerjeasy/letusconnect">frontend</a>
 </sub></p>
 
 ### Open source
 
-| Project | What I did | Status |
-|---|---|---|
-| [**genblaze**](https://github.com/backblaze-labs/genblaze) · Backblaze Labs | Root-caused a production bug in `genblaze-openai`, where HTTPS reference images broke OpenAI image-edit requests ([#253](https://github.com/backblaze-labs/genblaze/issues/253)), and fixed it ([#256](https://github.com/backblaze-labs/genblaze/pull/256)). | ![Merged](https://img.shields.io/badge/merged-8957E5?style=flat-square&logo=git&logoColor=white) |
-| [**bedrock-agentcore-sdk-typescript**](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287) · AWS | AgentCore Memory session storage for Strands TypeScript agents: 60 unit tests, integration tests against a real AgentCore Memory. | ![Open PR](https://img.shields.io/badge/open_PR-1F883D?style=flat-square&logo=github&logoColor=white) |
-| [**vega-calm-ui**](https://github.com/rogerjeasy/vega-calm-ui) · my library | Accessible 10-foot UI components for Fire TV (Vega OS) that refuse to render below 32 pt or 7:1 contrast, plus an ESLint plugin. | [![npm](https://img.shields.io/npm/v/vega-calm-ui?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/vega-calm-ui) |
-| [**react-native-multi-tv-app-sample**](https://github.com/AmazonAppDev/react-native-multi-tv-app-sample/pull/135) · Amazon | High contrast, larger text and reduce motion for Amazon's multi-platform TV template. | ![Open PR](https://img.shields.io/badge/open_PR-1F883D?style=flat-square&logo=github&logoColor=white) |
+| Project                                                                                                                          | What I did                                                                                                                                                                                                                                                    | Status                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [**genblaze**](https://github.com/backblaze-labs/genblaze) · Backblaze Labs                                                | Root-caused a production bug in `genblaze-openai`, where HTTPS reference images broke OpenAI image-edit requests ([#253](https://github.com/backblaze-labs/genblaze/issues/253)), and fixed it ([#256](https://github.com/backblaze-labs/genblaze/pull/256)). | ![Merged](https://img.shields.io/badge/merged-8957E5?style=flat-square&logo=git&logoColor=white)                                       |
+| [**bedrock-agentcore-sdk-typescript**](https://github.com/aws/bedrock-agentcore-sdk-typescript/pull/287) · AWS             | AgentCore Memory session storage for Strands TypeScript agents: 60 unit tests, integration tests against a real AgentCore Memory.                                                                                                                             | ![Open PR](https://img.shields.io/badge/open_PR-1F883D?style=flat-square&logo=github&logoColor=white)                                  |
+| [**vega-calm-ui**](https://github.com/rogerjeasy/vega-calm-ui) · my library                                                | Accessible 10-foot UI components for Fire TV (Vega OS) that refuse to render below 32 pt or 7:1 contrast, plus an ESLint plugin.                                                                                                                              | [![npm](https://img.shields.io/npm/v/vega-calm-ui?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/vega-calm-ui) |
+| [**win-hackathon**](https://github.com/rogerjeasy/win-hackathon) · my Claude Code plugin                                   | An 11-phase, approval-gated hackathon workflow (17 commands, 8 subagents, 23 skills, 4 hooks), from Devpost recon and rubric-scored ideation to deploy and submission. State persists to schema-validated JSON, so every phase resumes across context resets. | ![Claude Code plugin](https://img.shields.io/badge/Claude_Code-plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)         |
+| [**react-native-multi-tv-app-sample**](https://github.com/AmazonAppDev/react-native-multi-tv-app-sample/pull/135) · Amazon | High contrast, larger text and reduce motion for Amazon's multi-platform TV template.                                                                                                                                                                         | ![Open PR](https://img.shields.io/badge/open_PR-1F883D?style=flat-square&logo=github&logoColor=white)                                  |
 
 ### Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img alt="Tech stack grouped by field: AI agents and LLMs, machine learning, backend and APIs, frontend and 10-foot UI, data and vector search, cloud and DevOps, observability and quality." src="assets/skills-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cgo%2Cts%2Cjs%2Cjava%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cfirebase&theme=dark"><img alt="Python, Go, TypeScript, JavaScript, Java, PostgreSQL, MySQL, MongoDB, Redis, Firebase" src="https://skillicons.dev/icons?i=py%2Cgo%2Cts%2Cjs%2Cjava%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cfirebase&theme=light"></picture>
@@ -74,18 +92,6 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cspring%2Cexpress%2Cnextjs%2Creact%2Ctailwind%2Cpytorch%2Ctensorflow&theme=dark"><img alt="FastAPI, Spring Boot, Express, Next.js, React, Tailwind CSS, PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=fastapi%2Cspring%2Cexpress%2Cnextjs%2Creact%2Ctailwind%2Cpytorch%2Ctensorflow&theme=light"></picture>
   <br>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Cterraform%2Cgithubactions%2Cprometheus%2Cgrafana&theme=dark"><img alt="AWS, Google Cloud, Azure, Docker, Terraform, GitHub Actions, Prometheus, Grafana" src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Cterraform%2Cgithubactions%2Cprometheus%2Cgrafana&theme=light"></picture>
-</p>
-<p align="center">
-  <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img alt="Bedrock AgentCore" src="https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img alt="Anthropic Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square">
-  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=flat-square">
-  <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white">
 </p>
 
 ### Activity
