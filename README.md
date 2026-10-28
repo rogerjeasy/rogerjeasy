@@ -30,16 +30,10 @@
 
 ### Hackathon wins
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/wins-dark.svg">
-  <img alt="2 podium finishes, Best Design and 2nd Place Dynatrace track, across 24,191 combined participants. $5,000 in cash prizes and $2,000 in AWS credits." src="assets/wins-light.svg" width="100%">
-</picture>
-
-|    | Hackathon                                                                                    | Project                                                                                                         | Result                             |                                   Field | Prize                                 |
-| :-: | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------: | ------------------------------------- |
-| 🏆 | **H0: Hack the Zero Stack**Vercel v0 & AWS Databases<sub>Online · June 30, 2026</sub> | [**Kintwadi**](https://devpost.com/software/kintwadi-one-shared-record-for-family-caregiving)<sub></sub>   | **Winner**Best Design        |  **9,733**<sub>participants</sub> | **$2,000**+ $2,000 AWS credits  |
-| 🥈 | **Google Cloud Rapid Agent Hackathon**Dynatrace track<sub>Online · May 11, 2026</sub> | [**Karma**](https://devpost.com/software/karma-the-reincarnation-agent-for-deprecated-services)<sub></sub> | **2nd Place**Dynatrace track | **14,458**<sub>participants</sub> | **$3,000**                      |
-|    | **Total**                                                                              |                                                                                                                 | **2 podiums**                |                        **24,191** | **$5,000** + $2,000 AWS credits |
+| | Hackathon | Project | Result | Participants | Prize |
+|:-:|---|---|---|--:|---|
+| 🏆 | **H0: Hack the Zero Stack**<br>Vercel v0 & AWS Databases<br><sub>Online · June 30, 2026</sub> | [**Kintwadi**](https://devpost.com/software/kintwadi-one-shared-record-for-family-caregiving)<br><sub>[Code](https://github.com/rogerjeasy/kintwadi)</sub> | **Winner**<br>Best Design | **9,733** | **$2,000**<br>+ $2,000 AWS credits |
+| 🥈 | **Google Cloud Rapid Agent Hackathon**<br>Dynatrace track<br><sub>Online · May 11, 2026</sub> | [**Karma**](https://devpost.com/software/karma-the-reincarnation-agent-for-deprecated-services)<br><sub>[Code](https://github.com/rogerjeasy/karma)</sub> | **2nd Place**<br>Dynatrace track | **14,458** | **$3,000** |
 
 ### Featured work
 
@@ -96,12 +90,10 @@
 
 ### Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rogerjeasy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0B0F1A&stroke=253047&ring=8B5CF6&fire=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=22D3EE&sideLabels=8B98A9&dates=8B98A9">
-    <img alt="Total contributions, current streak and longest streak for rogerjeasy" src="https://streak-stats.demolab.com/?user=rogerjeasy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=D8DEE8&ring=7C3AED&fire=0891B2&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0891B2&sideLabels=5B6779&dates=5B6779" height="165">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="All-time GitHub activity since December 2019: total contributions, current and longest streak, and a 3D skyline with one tower per month and one row per year, with each year's total." src="assets/activity-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
